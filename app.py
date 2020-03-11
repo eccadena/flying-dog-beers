@@ -5,7 +5,7 @@ import plotly.graph_objs as go
 
 ########### Define your variables
 beers=['Chesapeake Stout', 'Snake Dog IPA', 'Imperial Porter', 'Double Dog IPA']
-ibu_values=[35, 60, 8, 70]
+ibu_values=[350, 600, 80, 700]
 abv_values=[50.4, 70.1, 90.2, 40.3]
 color1='lightblue'
 color2='darkgreen'
